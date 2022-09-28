@@ -19,3 +19,8 @@ Complete notebook of the code can be found [here](https://github.com/javadfarshc
 Below we can see the data correlation of the dataset columns:
 
 ![datacorr](https://github.com/javadfarshchi/Bank-Note-Authentication-Project/blob/main/datacorr_bank_note.png)
+
+
+The following image shows the evaluation metrics for the model.
+
+![datacorr](https://github.com/javadfarshchi/Bank-Note-Authentication-Project/blob/main/evaluation_bank_note.png)
