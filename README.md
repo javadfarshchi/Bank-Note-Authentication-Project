@@ -18,4 +18,4 @@ Complete notebook of the code can be found [here]().
 
 Below we can see the data correlation of the dataset columns:
 
-![datacorr]()
+![datacorr](https://github.com/javadfarshchi/Bank-Note-Authentication-Project/blob/main/datacorr_bank_note.png)
