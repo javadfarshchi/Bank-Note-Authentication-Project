@@ -14,7 +14,7 @@ The data consists of 5 columns:
 
 Where class indicates whether or not a Bank Note was authentic.
 
-Complete notebook of the code can be found [here]().
+Complete notebook of the code can be found [here](https://github.com/javadfarshchi/Bank-Note-Authentication-Project/blob/main/Bank%20Note%20Authentication%20.ipynb).
 
 Below we can see the data correlation of the dataset columns:
 
