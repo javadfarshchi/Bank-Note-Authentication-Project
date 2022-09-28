@@ -23,4 +23,4 @@ Below we can see the data correlation of the dataset columns:
 
 The following image shows the evaluation metrics for the model.
 
-![datacorr](https://github.com/javadfarshchi/Bank-Note-Authentication-Project/blob/main/evaluation_bank_note.png)
+![evaluation](https://github.com/javadfarshchi/Bank-Note-Authentication-Project/blob/main/evaluation_bank_note.PNG)
